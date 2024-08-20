@@ -1,0 +1,53 @@
+.teacher {
+  text-decoration: none;
+  color: rgb(55, 55, 55);
+}
+.mebel {
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20230616/pngtree-furniture-sale-white-leather-chair-with-metal-legs-on-concrete-wall-image_3615098.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+}
+.mebels {
+  background-color: #ffffffcc;
+  opacity: 80%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding: 20px;
+  border-radius: 12px;
+}
+.css-10hburv-MuiTypography-root {
+  font-size: 24px !important;
+  font-weight: bolder !important  ;
+  color: rgb(55, 55, 55);
+  margin-bottom: 20px;
+
+  margin-left: 10px !important;
+}
+.Furniro {
+  display: flex;
+  align-items: center;
+}
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root {
+  margin: 0 !important;
+  padding: 0 10px !important;
+}
+.divan img {
+  width: 100px;
+  height: 70px;
+  border-radius: 8px !important;
+}
+.bluemabel {
+  background-image: url("https://t3.ftcdn.net/jpg/05/93/29/50/360_F_593295067_2SvEv1yO5R5JZPtnE4AHAun5js3MrTnp.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+}
+.mebels .TextField {
+  background: transparent;
+}

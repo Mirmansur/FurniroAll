@@ -1,0 +1,180 @@
+.contact {
+  background-image: url(../assets/imegs/shop-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 316px;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.cont-all {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+.conts h1 {
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 72px;
+  text-align: left;
+  color: black;
+  margin-bottom: 7px;
+}
+.contsss-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contsss-2 h4 {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #000000;
+}
+.contsss-2 p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+  color: #000000;
+}
+.froms {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.froms-one {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 98px;
+  margin-bottom: 14px;
+}
+
+.froms-one h2 {
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  color: #000000;
+}
+.From {
+  margin-bottom: 70px;
+}
+.froms-one p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  width: 58%;
+  text-align: center;
+  color: #9f9f9f;
+}
+.inform {
+  display: flex;
+  flex-direction: column;
+}
+.informss {
+  display: flex;
+  width: 300px;
+}
+.inform-word {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+}
+.inform-word h4 {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 36px;
+  color: #000000;
+}
+.inform-word p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #000000;
+}
+.icons {
+  font-size: 1.9em;
+  margin-top: 30px;
+}
+.icons-watch {
+  font-size: 2.8em;
+  margin-top: 30px;
+}
+.froms-two {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.inputs form {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputs form input {
+  margin-bottom: 30px;
+  padding: 20px;
+  outline: none !important;
+  border-radius: 8px !important;
+  border: none !important;
+  border: 1px solid #9f9f9f !important;
+  width: 428px;
+}
+
+.inputs form input::placeholder {
+  color: #9f9f9f;
+}
+.inputs form button {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24px;
+  padding: 15px 30px;
+  color: #343232;
+  border: none;
+  transition: 0.4s;
+  cursor: pointer;
+  width: 200px;
+  background-color: none !important;
+}
+
+.inputs form button:hover {
+  background: #b88e2f;
+  color: #fff;
+  border-radius: 12px;
+}
+.inputs form p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #000000;
+}
+.jobs {
+  background: #faf3ea;
+  padding: 30px;
+}
+.job {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,70 @@
+.Header {
+  background: #ffffff;
+  padding: 30px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.firstword {
+  display: flex;
+  align-items: center;
+}
+.firstword h1 {
+  font-family: Montserrat;
+  font-size: 34px;
+  font-weight: 700;
+}
+.firsword img {
+  padding-right: 10px;
+}
+.lin-one {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 60%;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-decoration: none;
+}
+.lin-one a {
+  color: black;
+  text-decoration: none;
+  transition: 0.4s;
+}
+.active {
+  background-color: #b88e2f;
+  padding: 5px 15px;
+  color: #ffffff !important;
+  border-radius: 8px;
+}
+.icon button {
+  padding-right: 20px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding-left: 20px;
+}
+.icon img {
+  font-size: 1.3em;
+}
+.toggel input {
+  text-align: center;
+}
+input {
+  width: 100%;
+  padding: 12px 20px;
+  border: 1px solid #b88e2f;
+  border-radius: 4px;
+  outline: none !important;
+}

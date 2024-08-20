@@ -1,0 +1,70 @@
+.table {
+  display: flex;
+  flex-wrap: wrap;
+  border: none !important;
+  padding: 100px;
+}
+.like {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 50px;
+}
+.Alll {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background: #f4f5f7;
+  width: 285px;
+  height: 446px;
+  margin-bottom: 30px;
+  border-radius: 12px;
+}
+
+.like-one img {
+  width: 285px;
+  height: 301px;
+  border-radius: 12px 12px 0 0;
+}
+.words {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  padding-left: 20px;
+}
+.like-all h2 {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 28.8px;
+  text-align: left;
+  color: #3a3a3a;
+}
+
+.like-one p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #898989;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.all-like h3 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  text-align: left;
+  color: #3a3a3a;
+}
+.like-all {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
